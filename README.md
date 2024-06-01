@@ -35,10 +35,6 @@ A huge collection of various utilities and cheats such as
 - ❌ iOS/iPadOS/Android (Not Supported)
 - ❌ Switch/Xbox/Playstation (Not Supported)
 
-## ⬇️ Download & Install
-### For Windows
-You can find the latest release here: [Download](https://github.com/g0aty/SickoMenu/releases/latest).
-Either inject "SickoMenu.dll" with a reliable injector or put "version.dll" in your Among Us directory (the folder containing "Among Us.exe").
 
 ### For Proton (Version Proxy Only)
 First you will need protontricks, you can install it with your packager of choice.
